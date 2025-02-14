@@ -3,7 +3,7 @@ b = 12
 c = 12
 
 print(a != b)
-print(b 1= c)
+print(b != c)
 
 a = "python"
 b = "coding"
